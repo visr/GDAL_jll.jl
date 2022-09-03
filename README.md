@@ -16,7 +16,6 @@ The tarballs for `GDAL_jll.jl` have been built from these sources:
 
 `GDAL_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 * `Windows x86_64` (`x86_64-w64-mingw32`)
 
 ## Dependencies

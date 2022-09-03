@@ -9,9 +9,9 @@ os = "linux"
     url = "https://github.com/visr/GDAL_jll.jl/releases/download/GDAL-v300.500.101+0/GDAL.v300.500.101.x86_64-linux-gnu.tar.gz"
 [[GDAL]]
 arch = "x86_64"
-git-tree-sha1 = "e764becfac766125d5e63983dbb49df3abe7cdde"
+git-tree-sha1 = "64c28b71b514277604dd0afd5f74774c5b96a4be"
 os = "windows"
 
     [[GDAL.download]]
-    sha256 = "e191451a7f1b5a627c2f04c7ee44ea2ff6de9341a53562c7b1d22cc16f05f6dc"
+    sha256 = "3c7d188160905d44751997db7b0f610d3b3e6f0096c918727447d9139182466c"
     url = "https://github.com/visr/GDAL_jll.jl/releases/download/GDAL-v300.500.101+0/GDAL.v300.500.101.x86_64-w64-mingw32.tar.gz"
