@@ -1,0 +1,17 @@
+[[GDAL]]
+arch = "x86_64"
+git-tree-sha1 = "9b12ea60102daaa5e515b6bab2e024a2fe6550af"
+libc = "glibc"
+os = "linux"
+
+    [[GDAL.download]]
+    sha256 = "eb8541586342547ebffe1fa9d5b231c0a277d8fe2f22b9e7fb79b1197a13ca3e"
+    url = "https://github.com/visr/GDAL_jll.jl/releases/download/GDAL-v300.500.101+0/GDAL.v300.500.101.x86_64-linux-gnu.tar.gz"
+[[GDAL]]
+arch = "x86_64"
+git-tree-sha1 = "e764becfac766125d5e63983dbb49df3abe7cdde"
+os = "windows"
+
+    [[GDAL.download]]
+    sha256 = "e191451a7f1b5a627c2f04c7ee44ea2ff6de9341a53562c7b1d22cc16f05f6dc"
+    url = "https://github.com/visr/GDAL_jll.jl/releases/download/GDAL-v300.500.101+0/GDAL.v300.500.101.x86_64-w64-mingw32.tar.gz"
